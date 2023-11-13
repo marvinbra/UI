@@ -43,7 +43,7 @@ span:before {
     width: 80%;
     bottom: .1em;
     z-index: -1;
-    background: #71AE21; 
+    background: rgb(151, 2, 2); 
 }
 
 /*
